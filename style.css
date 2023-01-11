@@ -8,9 +8,11 @@
 
 body {
   background-image: url("jolteonbg.gif");
-  background-color: #cccccc;
+  
+  background-image: linear-gradient(rgb(255, 251, 251), rgb(252, 43, 123));
+
  }
- 
+
 .flex {
   position: -webkit-sticky;
   position: sticky;
